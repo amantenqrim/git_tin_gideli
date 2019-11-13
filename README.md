@@ -1,2 +1,2 @@
 # git_tin_gideli
-Git komutları öğrenmece
+Git komutlarini ogrenmece ve programlar kullanmaca.
